@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/website-portfolio/static/css/main.1f934f4c.css",
+    "main.js": "/website-portfolio/static/js/main.e0727e5a.js",
+    "static/js/453.47aba329.chunk.js": "/website-portfolio/static/js/453.47aba329.chunk.js",
+    "static/media/thinking.gif": "/website-portfolio/static/media/thinking.f0396d368412c3c7de34.gif",
+    "static/media/planning.gif": "/website-portfolio/static/media/planning.e22909eb76522452d4b1.gif",
+    "static/media/designing.gif": "/website-portfolio/static/media/designing.da2e0fe2cd857c20dd05.gif",
+    "static/media/logo.svg": "/website-portfolio/static/media/logo.30164719c397c80baf3c2805a9854929.svg",
+    "static/media/header-imgR.png": "/website-portfolio/static/media/header-imgR.fd4549733803a784e2df.png",
+    "static/media/header-img.png": "/website-portfolio/static/media/header-img.53888b7d9193a289c85c.png",
+    "static/media/banner-bg.png": "/website-portfolio/static/media/banner-bg.4f125f75bc3558a78f61.png",
+    "static/media/researching.gif": "/website-portfolio/static/media/researching.87fd3defbe46be2db767.gif",
+    "static/media/serviceWebsite.png": "/website-portfolio/static/media/serviceWebsite.1e3a5bd9dc6233b76538.png",
+    "static/media/memoryGame.png": "/website-portfolio/static/media/memoryGame.5dce86f3d707eba8672e.png",
+    "static/media/eCommerce.png": "/website-portfolio/static/media/eCommerce.8e75138961b3f4b8f6ce.png",
+    "static/media/analytics.png": "/website-portfolio/static/media/analytics.2d1d5c1b0c7a66e68359.png",
+    "static/media/CentraNo2-Bold.ttf": "/website-portfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/website-portfolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/website-portfolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/La-Fabrique-de-Chocolats.ttf": "/website-portfolio/static/media/La-Fabrique-de-Chocolats.3b970136903e2d50811a.ttf",
+    "static/media/revicons.eot": "/website-portfolio/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/website-portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/website-portfolio/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/nav-icon3.svg": "/website-portfolio/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "index.html": "/website-portfolio/index.html",
+    "static/media/insta.svg": "/website-portfolio/static/media/insta.721d5414c26365f117e71d46b6641cb2.svg",
+    "static/media/facebook.svg": "/website-portfolio/static/media/facebook.178f497aa17b70c42df2a1a8c926ed01.svg",
+    "main.1f934f4c.css.map": "/website-portfolio/static/css/main.1f934f4c.css.map",
+    "main.e0727e5a.js.map": "/website-portfolio/static/js/main.e0727e5a.js.map",
+    "453.47aba329.chunk.js.map": "/website-portfolio/static/js/453.47aba329.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f934f4c.css",
+    "static/js/main.e0727e5a.js"
+  ]
+}
