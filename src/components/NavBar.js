@@ -1,7 +1,6 @@
 import { useState, useEffect} from "react";
 import { Container, Nav, Navbar } from "react-bootstrap";
 import logo from '../assets/img/logo.svg';
-import kimDP from '../assets/img/kimDP.png'
 import instagramIcon from '../assets/img/insta.svg';
 import facebookIcon from '../assets/img/facebook.svg';
 import linkedInIcon from '../assets/img/nav-icon3.svg';

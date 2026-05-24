@@ -1,6 +1,5 @@
 import headerImg from "../assets/img/header-img.png";
 import headerImgR from "../assets/img/header-imgR.png";
-import kimDP from "../assets/img/kimDP.png";
 import { useState, useEffect } from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import Popup from "../components/Popup";
