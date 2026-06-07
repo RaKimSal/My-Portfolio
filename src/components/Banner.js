@@ -51,7 +51,7 @@ const Banner = () => {
                 Technology option at the University of Ottawa. I am currently
                 completing a co-op placement in the Seismic Department at an
                 HVAC company, where I have worked on several projects involving
-                HVAC installation design and seismic restraint requirements in
+                seismic restraint requirements in
                 accordance with the OBC and NBC. Although I do not have experience
                 in HTML, JavaScript and CSS, I am interested to learn.
               </p>
