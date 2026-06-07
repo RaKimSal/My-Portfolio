@@ -8,9 +8,18 @@ const Upcoming = () => {
 
       <Container className="grid-container">
 
-      <div className="grid-item item-4">
+        <div className="grid-item item-4">
           <span>Service Website</span>
-          <button className="project-btn">Coming Soon</button>
+
+          <a
+            href="https://my-service-website.netlify.app/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <button className="project-btn">
+              Click here
+            </button>
+          </a>
         </div>
         
         <div className="grid-item item-1">
