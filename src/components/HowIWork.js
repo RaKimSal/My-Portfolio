@@ -35,19 +35,19 @@ const HowIWork = () => {
                         <Carousel responsive={responsive} infinite={true} className="owl-carousel owl-theme skill-slider">
                             <div className="item">
                                 <img src={img1} alt="Image" />
-                                <h5>Understanding</h5>
+                                <h5>Ask Nico</h5>
                             </div>
                             <div className="item">
                                 <img src={img2} alt="Image" />
-                                <h5>Researching</h5>
+                                <h5>Complaining</h5>
                             </div>
                             <div className="item">
                                 <img src={img3} alt="Image" />
-                                <h5>Planning</h5>
+                                <h5>Doing it anyway</h5>
                             </div>
                             <div className="item">
                                 <img src={img4} alt="Image" />
-                                <h5>Designng</h5>
+                                <h5>Thanking Nico</h5>
                             </div>
                         </Carousel>
                     </div>
