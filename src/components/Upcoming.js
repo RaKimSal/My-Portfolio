@@ -7,7 +7,6 @@ const Upcoming = () => {
       <p className="upcoming-text">Will be available soon!</p>
 
       <Container className="grid-container">
-
         <div className="grid-item item-4">
           <span>Service Website</span>
 
@@ -21,22 +20,38 @@ const Upcoming = () => {
             </button>
           </a>
         </div>
-        
+
         <div className="grid-item item-1">
-          <span className="grid-intext">Analytics Dashboard</span>
-          <button className="project-btn">Coming Soon</button>
+          <span className="grid-intext">
+            Analytics Dashboard
+          </span>
+
+          <button className="project-btn">
+            Coming Soon
+          </button>
         </div>
 
         <div className="grid-item item-2">
           <span>eCommerce</span>
-          <button className="project-btn">Coming Soon</button>
+
+          <button className="project-btn">
+            Coming Soon
+          </button>
         </div>
 
         <div className="grid-item item-3">
           <span>Memory Game</span>
-          <button className="project-btn">Coming Soon</button>
-        </div>
 
+          <a
+            href="https://kim-memory-game.netlify.app/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <button className="project-btn">
+              Click here
+            </button>
+          </a>
+        </div>
       </Container>
     </section>
   );
