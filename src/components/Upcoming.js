@@ -34,9 +34,15 @@ const Upcoming = () => {
         <div className="grid-item item-2">
           <span>eCommerce</span>
 
-          <button className="project-btn">
-            Coming Soon
-          </button>
+          <a
+            href="https://cheries-clothing.netlify.app/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <button className="project-btn">
+              Click here
+            </button>
+          </a>
         </div>
 
         <div className="grid-item item-3">
